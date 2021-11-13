@@ -10,8 +10,18 @@
   "author": "takeshi furusawa",
   "license": "ISC",
   "devDependencies": {
+    "autoprefixer": "^10.4.0",
+    "css-loader": "^6.5.0",
+    "file-loader": "^6.2.0",
+    "mini-css-extract-plugin": "^2.4.3",
+    "postcss-loader": "^6.2.0",
+    "sass": "^1.43.4",
+    "sass-loader": "^12.3.0",
     "tone": "^14.7.77",
     "webpack": "^5.59.1",
     "webpack-cli": "^4.9.1"
+  },
+  "dependencies": {
+    "bootstrap": "^5.1.3"
   }
 }
